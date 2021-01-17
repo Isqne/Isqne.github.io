@@ -21,5 +21,5 @@
 </table>
 
 <h4 align="center"> 
-	🚧  Em construção...  🚧
+	Por enquanto é só!
 </h4>
